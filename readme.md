@@ -48,9 +48,8 @@
  # 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-
-```js
+  <img align="right" height="350" width="500" src="https://i.pinimg.com/originals/44/a8/da/44a8dabf0e4bf6e2616cd0f6d0ce5912.gif" alt="Coding gif" />
+  <pre><code>```js
 "use creativity";
 import { Person } from 'Manila, Philippines';
 
@@ -65,9 +64,9 @@ new Person({
     😬 stressed   : true
     💬 Ask Me     : [here](https://github.com/eyuewna/eyuewna/issues)
 }).sayHello();
+  </code></pre>
 
 ```
-
 ```cmd
 D:\Euna-Angeles> index.js
 🎯 𝐹𝓊𝓉𝓊𝓇𝑒-𝐹𝑜𝓇𝓌𝒶𝓇𝒹 𝐵𝓊𝓈𝒾𝓃𝑒𝓈𝓈 𝒜𝓃𝒶𝓁𝓎𝓈𝓉
@@ -95,54 +94,53 @@ D:\Euna-Angeles> index.js
 
 <img src="horizontal-divider-gradient.gif">
 
-<h3 align="center">⭐My Favorite Repo⭐</h3>
-
+## 𝓜𝔂 𝓡𝓮𝓹𝓸𝓼𝓲𝓽𝓸𝓻𝓲𝓮𝓼 /ᐠ≽•ヮ•≼マ
 <div>
   <p align="center">
-	<a href="https://github.com/Deri-Kurniawan/Deri-Kurniawan.github.io">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=Deri-Kurniawan.github.io&theme=transparent" alt="GitHub Stats" />
+	    <a href="https://github.com/eyuewna/AWD-Animation-project">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuewna&repo=AWD-Animation-project&theme=transparent" alt="GitHub Stats" />
     	</a>
-	    <a href="https://github.com/Deri-Kurniawan/3d-portfolio">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=3d-portfolio&theme=transparent" alt="GitHub Stats" />
+	    <a href="https://github.com/eyuewna/Jumping_Letters">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuewna&repo=Jumping_Letters&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/eyuewna/Bell_Notification">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuewna&repo=Bell_Notification&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/derizer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=derizer&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/eyuewna/Color_Switching">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuewna&repo=Color_Switching&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/screen-recorder-online">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=screen-recorder-online&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/eyuewna/Angeles-Calculator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuewna&repo=Angeles-Calculator&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/mini-framework">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/eyuewna/CatCafe-Website">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuewna&repo=CatCafe-Website&theme=transparent" alt="GitHub Stats" />
     	</a>
 
+<img src="horizontal-divider-gradient.gif">
 
-<br/>
-<hr/>
+## 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓾𝓼 (·•᷄‎ࡇ•᷅ )
 <br/>
 
 <p align="center">
-  <a href="https://github.com/euna">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=euna&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/eyuewna">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyuewna&theme=radical&border=7F3FBF&background=0D1117" alt="Euna Angeles' GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/euna">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=euna&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  <a href="https://github.com/eyuewna">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyuewna&theme=radical" alt="Euna Angeles' GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/euna"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=euna&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/euna"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=euna&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/eyuewna"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=eyuewna&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/eyuewna"><img alt="Euna Angeles' Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=eyuewna&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=euna&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Euna Angeles' Graph](https://github-readme-activity-graph.vercel.app/graph?username=eyuewna&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <img src="horizontal-divider-gradient.gif">
 
