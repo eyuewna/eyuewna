@@ -48,7 +48,7 @@
  # 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
  
 <p>
-  <img align="right" height="350" width="500" src="https://i.pinimg.com/originals/44/a8/da/44a8dabf0e4bf6e2616cd0f6d0ce5912.gif" alt="Coding gif" />
+  <img align="right" height="350" width="400" src="https://i.pinimg.com/originals/44/a8/da/44a8dabf0e4bf6e2616cd0f6d0ce5912.gif" alt="Coding gif" />
   <pre><code>```js
 "use creativity";
 import { Person } from 'Manila, Philippines';
