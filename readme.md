@@ -1,30 +1,31 @@
 <a href="https://komarev.com/ghpvc/?username=euna">
-  <img align="right" src="https://komarev.com/ghpvc/?username=eyuewna&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="left" src="https://komarev.com/ghpvc/?username=eyuewna&label=Visitors&color=blueviolet&style=flat" alt="Profile visitor" />
 </a>
 
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anta&weight=600&size=40&duration=4000&pause=500&color=5EBBF7&background=B04EFF00&center=true&vCenter=true&random=false&width=700&lines=HI+there+%5E._.%5E%E0%B8%85;Welcy+to+my+Read+Me++%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%BF+%CB%89%CD%88%CC%80%EA%92%B3%CB%89%CD%88%CC%81+)%E2%9C%A7;%2F%E1%90%A0.+%EF%BD%A1.%E1%90%9F%5C%E1%B5%90%E1%B5%89%E1%B5%92%CA%B7%CB%8E%CB%8A%CB%97" alt="Typing SVG" /></a>
+<img src="horizontal-divider-gradient.gif">
 
-</h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anta&weight=600&size=40&duration=4000&pause=500&color=5EBBF7&background=B04EFF00&center=true&vCenter=true&random=false&width=700&lines=HI+there+%5E._.%5E%E0%B8%85;Welcy+to+my+Read+Me++%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%BF+%CB%89%CD%88%CC%80%EA%92%B3%CB%89%CD%88%CC%81+)%E2%9C%A7;%2F%E1%90%A0.+%EF%BD%A1.%E1%90%9F%5C%E1%B5%90%E1%B5%89%E1%B5%92%CA%B7%CB%8E%CB%8A%CB%97" alt="Typing SVG" /></a>
+<img src="horizontal-divider-gradient.gif">
+	
+</p>
 <!-- Intro  -->
 <h3 align="center">
-<img src="eunapic.jpg" alt="Profile Picture" style="border-radius: 50%; width: 200px; height: 300px; object-fit: cover;">
+<img src="eunapic.png" alt="Profile Picture" style="border-radius: 50%; width: 400px; height: 350px; object-fit: cover;">
   <br>
   <samp>&gt; Hey There!, I am <b><a target="_blank" href="https://euna.com">Euna Angeles</a></b></samp>
 </h3>
 
 <p align="center"> 
   <samp>
-    <a> 🫧𓇼𓏲*ੈ✩‧₊˚🎐 </a>
+    「 I am BSIT-BA student from Feu Tech! 」
     <br>
-    「 I am BSIT-BA student from Feu Tech!</b> 」
-    <br>
-    <br>
+	      <a> 🫧𓇼𓏲*ੈ✩‧₊˚🎐 </a>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://euna.com" target="blank">
+ <a href="https://eyuewna" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="euna" />
  </a>
  <a href="https://www.linkedin.com/in/euna-angeles-128629298/" target="_blank">
@@ -44,45 +45,51 @@
 <img src="horizontal-divider-gradient.gif">
 
 <!-- About Section -->
- # About me
+ # 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
- 
- 👩🏻 &emsp; she/her <br/><br/>
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: eunaangeles@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/euna/euna/issues)
 
+```js
+"use creativity";
+import { Person } from 'Manila, Philippines';
+
+new Person({
+    👩🏻 name       : 'Euna Gabrielle V. Angeles',
+    🎂 age        :  '20 yr old :,D',
+    💁🏻‍♀️ pronouns   : 'she/her',
+    ❤️ likes      : 'matcha, cats, music, programming <3',
+    📧 email      : 'eunaangeles@gmail.com',
+    🌐 website    : 'ongoing',
+    🟢 Status     : 'Alive',
+    😬 stressed   : true
+    💬 Ask Me     : [here](https://github.com/eyuewna/eyuewna/issues)
+}).sayHello();
+
+```
+
+```cmd
+D:\Euna-Angeles> index.js
+🎯 𝐹𝓊𝓉𝓊𝓇𝑒-𝐹𝑜𝓇𝓌𝒶𝓇𝒹 𝐵𝓊𝓈𝒾𝓃𝑒𝓈𝓈 𝒜𝓃𝒶𝓁𝓎𝓈𝓉
+
+```
+ 
 </p>
 
-<br/>
-<br/>
-<br/>
-
-## Use To Code
+## 𝓤𝓼𝓮𝓭 𝓽𝓸 𝓒𝓸𝓭𝓮
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br/>
 
@@ -136,3 +143,9 @@
 
 
 ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=euna&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<img src="horizontal-divider-gradient.gif">
+
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anta&weight=600&size=40&duration=4000&pause=500&color=5EBBF7&background=B04EFF00&center=true&vCenter=true&random=false&width=700&lines=bye+programmers+%E0%AB%AE%EA%92%B0+%CB%B6%E2%80%A2+%E0%BC%9D+%E2%80%A2%CB%B6%EA%92%B1%E1%83%90+%E2%99%A1" alt="Typing SVG" /></a>
+</h1>
