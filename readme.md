@@ -144,6 +144,5 @@ D:\Euna-Angeles> index.js
 
 <img src="horizontal-divider-gradient.gif">
 
-<h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anta&weight=600&size=40&duration=4000&pause=500&color=656FEB&background=B04EFF00&center=true&vCenter=true&random=false&width=700&lines=bye+programmers+%E0%AB%AE%EA%92%B0+%CB%B6%E2%80%A2+%E0%BC%9D+%E2%80%A2%CB%B6%EA%92%B1%E1%83%90+%E2%99%A1" alt="Typing SVG" /></a>
-</h1>
+<img src="horizontal-divider-gradient.gif">
