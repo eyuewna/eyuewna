@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://euna.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://euna.com">Euna Angeles</a></b>
         </samp>
 </h3>
 
@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am BSIT-BA student from Feu Tech!</b> 」
     <br>
     <br>
   </samp>
@@ -58,7 +58,7 @@
   </a> 
 </p>
 <br />
-<img src="/assets/images/horizontal-divider-gradient.gif">
+<img src="horizontal-divider-gradient.gif">
 
 <!-- About Section -->
  # About me
@@ -102,15 +102,31 @@
 
 <br/>
 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=euna&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/euna/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=euna&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/euna/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=euna&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/euna/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=euna&repo=euna&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/euna/euna)
+<img src="horizontal-divider-gradient.gif">
 
-<p align="left">
-  <a href="https://github.com/euna?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+<h3 align="center">⭐My Favorite Repo⭐</h3>
+
+<div>
+  <p align="center">
+	<a href="https://github.com/Deri-Kurniawan/Deri-Kurniawan.github.io">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=Deri-Kurniawan.github.io&theme=transparent" alt="GitHub Stats" />
+    	</a>
+	    <a href="https://github.com/Deri-Kurniawan/3d-portfolio">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=3d-portfolio&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/derizer">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=derizer&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/screen-recorder-online">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=screen-recorder-online&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/mini-framework">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
+    	</a>
+
 
 <br/>
 <hr/>
