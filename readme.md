@@ -8,7 +8,7 @@
 </h1>
 <!-- Intro  -->
 <h3 align="center">
-  <img src="your_profile_picture_url_here" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
+<img src="eunapic.jpg" alt="Profile Picture" style="border-radius: 50%; width: 200px; height: 300px; object-fit: cover;">
   <br>
   <samp>&gt; Hey There!, I am <b><a target="_blank" href="https://euna.com">Euna Angeles</a></b></samp>
 </h3>
