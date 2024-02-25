@@ -134,7 +134,7 @@ D:\Euna-Angeles> index.js
 </p>
 
 <a> 
-    <a href="https://github.com/eyuewna"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=eyuewna&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/eyuewna"><img alt="Euna Angeles' Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=eyuewna&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/eyuewna"><img alt="Euna Angeles' Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=eyuewna&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
@@ -145,5 +145,5 @@ D:\Euna-Angeles> index.js
 <img src="horizontal-divider-gradient.gif">
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anta&weight=600&size=40&duration=4000&pause=500&color=5EBBF7&background=B04EFF00&center=true&vCenter=true&random=false&width=700&lines=bye+programmers+%E0%AB%AE%EA%92%B0+%CB%B6%E2%80%A2+%E0%BC%9D+%E2%80%A2%CB%B6%EA%92%B1%E1%83%90+%E2%99%A1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anta&weight=600&size=40&duration=4000&pause=500&color=656FEB&background=B04EFF00&center=true&vCenter=true&random=false&width=700&lines=bye+programmers+%E0%AB%AE%EA%92%B0+%CB%B6%E2%80%A2+%E0%BC%9D+%E2%80%A2%CB%B6%EA%92%B1%E1%83%90+%E2%99%A1" alt="Typing SVG" /></a>
 </h1>
