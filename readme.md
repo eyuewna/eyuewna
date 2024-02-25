@@ -1,35 +1,21 @@
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
-<p align="center">
-  <a href="https://github.com/euna"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
-
 <a href="https://komarev.com/ghpvc/?username=euna">
-  <img align="right" src="https://komarev.com/ghpvc/?username=euna&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=eyuewna&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anta&weight=600&size=40&duration=4000&pause=500&color=5EBBF7&background=B04EFF00&center=true&vCenter=true&random=false&width=700&lines=HI+there+%5E._.%5E%E0%B8%85;Welcy+to+my+Read+Me++%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%BF+%CB%89%CD%88%CC%80%EA%92%B3%CB%89%CD%88%CC%81+)%E2%9C%A7;%2F%E1%90%A0.+%EF%BD%A1.%E1%90%9F%5C%E1%B5%90%E1%B5%89%E1%B5%92%CA%B7%CB%8E%CB%8A%CB%97" alt="Typing SVG" /></a>
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
+</h1>
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://euna.com">Euna Angeles</a></b>
-        </samp>
+  <img src="your_profile_picture_url_here" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
+  <br>
+  <samp>&gt; Hey There!, I am <b><a target="_blank" href="https://euna.com">Euna Angeles</a></b></samp>
 </h3>
-
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a> 🫧𓇼𓏲*ੈ✩‧₊˚🎐 </a>
     <br>
     「 I am BSIT-BA student from Feu Tech!</b> 」
     <br>
@@ -41,21 +27,18 @@
  <a href="https://euna.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="euna" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://www.linkedin.com/in/euna-angeles-128629298/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="euna"/>
  </a>
- <!-- <a href="https://dev.to/euna" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="euna" />
- </a> -->
- <a href="https://twitter.com/_euna" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/_euna" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="euna" />
- </a> 
- <a href="https://facebook.com/euna.dev" target="_blank">
+ <a href="https://www.facebook.com/eunagabriellev.angeles" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="euna"  />
   </a> 
+ <a href="https://open.spotify.com/user/315cx7at3myqejzytpuguvaxquhy" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+ </a>
+ <a href="https://www.instagram.com/yuuuena/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="euna" />
+ </a> 
 </p>
 <br />
 <img src="horizontal-divider-gradient.gif">
@@ -65,10 +48,11 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
+ 
+ 👩🏻 &emsp; she/her <br/><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: euna.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: eunaangeles@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/euna/euna/issues)
 
 </p>
