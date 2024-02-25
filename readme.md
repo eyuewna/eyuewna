@@ -13,7 +13,7 @@
 <h3 align="center">
 <img src="eunapic.png" alt="Profile Picture" style="border-radius: 50%; width: 400px; height: 350px; object-fit: cover;">
   <br>
-  <samp>&gt; Hey There!, I am <b><a target="_blank" href="https://euna.com">Euna Angeles</a></b></samp>
+  <samp>&gt; Hey There!, I am <b><a target="_blank" href="https://thisisnotajumpscare.com/">Euna Angeles</a></b></samp>
 </h3>
 
 <p align="center"> 
