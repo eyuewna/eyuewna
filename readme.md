@@ -2,18 +2,18 @@
   <img align="left" src="https://komarev.com/ghpvc/?username=eyuewna&label=Visitors&color=blueviolet&style=flat" alt="Profile visitor" />
 </a>
 
-<img src="horizontal-divider-gradient.gif">
+<img src="assets/images/horizontal-divider-gradient.gif">
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anta&weight=600&size=40&duration=4000&pause=500&color=5EBBF7&background=B04EFF00&center=true&vCenter=true&random=false&width=700&lines=HI+there+%5E._.%5E%E0%B8%85;Welcy+to+my+Read+Me++%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%BF+%CB%89%CD%88%CC%80%EA%92%B3%CB%89%CD%88%CC%81+)%E2%9C%A7;%2F%E1%90%A0.+%EF%BD%A1.%E1%90%9F%5C%E1%B5%90%E1%B5%89%E1%B5%92%CA%B7%CB%8E%CB%8A%CB%97" alt="Typing SVG" /></a>
-<img src="horizontal-divider-gradient.gif">
+<img src="assets/images/horizontal-divider-gradient.gif">
 	
 </p>
 <!-- Intro  -->
 <h3 align="center">
-<img src="eunapic.png" alt="Profile Picture" style="border-radius: 50%; width: 400px; height: 350px; object-fit: cover;">
+<img src="assets/images/eunapic.png" alt="Profile Picture" style="border-radius: 50%; width: 400px; height: 350px; object-fit: cover;">
   <br>
-  <samp>&gt; Hey There!, I am <b><a target="_blank" href="https://thisisnotajumpscare.com/">Euna Angeles</a></b></samp>
+  <samp>&gt; Hey There!, I am <b><a target="_blank" href="https://thisisnotajumpscare.com/">assets/images/euna Angeles</a></b></samp>
 </h3>
 
 <p align="center"> 
@@ -26,23 +26,23 @@
 
 <p align="center">
  <a href="https://eyuewna" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="euna" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="assets/images/euna" />
  </a>
- <a href="https://www.linkedin.com/in/euna-angeles-128629298/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="euna"/>
+ <a href="https://www.linkedin.com/in/assets/images/euna-angeles-128629298/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="assets/images/euna"/>
  </a>
- <a href="https://www.facebook.com/eunagabriellev.angeles" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="euna"  />
+ <a href="https://www.facebook.com/assets/images/eunagabriellev.angeles" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="assets/images/euna"  />
   </a> 
  <a href="https://open.spotify.com/user/315cx7at3myqejzytpuguvaxquhy" target="_blank">
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
  </a>
  <a href="https://www.instagram.com/yuuuena/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="euna" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="assets/images/euna" />
  </a> 
 </p>
 <br />
-<img src="horizontal-divider-gradient.gif">
+<img src="assets/images/horizontal-divider-gradient.gif">
 
 <!-- About Section -->
  # 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
@@ -54,11 +54,11 @@
 import { Person } from 'Manila, Philippines';
 
 new Person({
-    👩🏻 name       : 'Euna Gabrielle V. Angeles',
+    👩🏻 name       : 'assets/images/euna Gabrielle V. Angeles',
     🎂 age        :  '20 yr old :,D',
     💁🏻‍♀️ pronouns   : 'she/her',
     ❤️ likes      : 'matcha, cats, music, programming <3',
-    📧 email      : 'eunaangeles@gmail.com',
+    📧 email      : 'assets/images/eunaangeles@gmail.com',
     🌐 website    : 'ongoing',
     🟢 Status     : 'Alive',
     😬 stressed   : true
@@ -68,7 +68,7 @@ new Person({
 
 ```
 ```cmd
-D:\Euna-Angeles> index.js
+D:\assets/images/euna-Angeles> index.js
 🎯 𝐹𝓊𝓉𝓊𝓇𝑒-𝐹𝑜𝓇𝓌𝒶𝓇𝒹 𝐵𝓊𝓈𝒾𝓃𝑒𝓈𝓈 𝒜𝓃𝒶𝓁𝓎𝓈𝓉
 
 ```
@@ -92,7 +92,7 @@ D:\Euna-Angeles> index.js
 
 <br/>
 
-<img src="horizontal-divider-gradient.gif">
+<img src="assets/images/horizontal-divider-gradient.gif">
 
 ## 𝓜𝔂 𝓡𝓮𝓹𝓸𝓼𝓲𝓽𝓸𝓻𝓲𝓮𝓼 /ᐠ≽•ヮ•≼マ
 <div>
@@ -116,35 +116,35 @@ D:\Euna-Angeles> index.js
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eyuewna&repo=CatCafe-Website&theme=transparent" alt="GitHub Stats" />
     	</a>
 
-<img src="horizontal-divider-gradient.gif">
+<img src="assets/images/horizontal-divider-gradient.gif">
 
 ## 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓾𝓼 (·•᷄‎ࡇ•᷅ )
 <br/>
 
 <p align="center">
   <a href="https://github.com/eyuewna">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyuewna&theme=radical&border=7F3FBF&background=0D1117" alt="Euna Angeles' GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyuewna&theme=radical&border=7F3FBF&background=0D1117" alt="assets/images/euna Angeles' GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/eyuewna">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyuewna&theme=radical" alt="Euna Angeles' GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyuewna&theme=radical" alt="assets/images/euna Angeles' GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/eyuewna"><img alt="Euna Angeles' Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=eyuewna&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/eyuewna"><img alt="Euna Angeles' Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=eyuewna&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/eyuewna"><img alt="assets/images/euna Angeles' Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=eyuewna&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/eyuewna"><img alt="assets/images/euna Angeles' Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=eyuewna&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Euna Angeles' Graph](https://github-readme-activity-graph.vercel.app/graph?username=eyuewna&custom_title=Euna%20Angeles's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![assets/images/euna Angeles' Graph](https://github-readme-activity-graph.vercel.app/graph?username=eyuewna&custom_title=assets/images/euna%20Angeles's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<img src="horizontal-divider-gradient.gif">
+<img src="assets/images/horizontal-divider-gradient.gif">
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anta&weight=600&size=40&duration=4000&pause=500&color=656FEB&background=B04EFF00&center=true&vCenter=true&random=false&width=700&lines=bye+programmers+%E0%AB%AE%EA%92%B0+%CB%B6%E2%80%A2+%E0%BC%9D+%E2%80%A2%CB%B6%EA%92%B1%E1%83%90+%E2%99%A1" alt="Typing SVG" /></a>
 <p align="center">
-<img src="horizontal-divider-gradient.gif">
+<img src="assets/images/horizontal-divider-gradient.gif">
